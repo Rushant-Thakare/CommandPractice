@@ -1,3 +1,7 @@
+
 class fucj{
+}
+class Demo{
+
     
 }
